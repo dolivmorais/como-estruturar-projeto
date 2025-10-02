@@ -5,3 +5,4 @@ versão do python
     > pyenv
 gestão do ambiente virtual
     > poetry
+# como-estruturar-projeto
